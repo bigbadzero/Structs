@@ -1,0 +1,501 @@
+FirstName,MiddleInitial,LastName,StreetAddress,City,State,ZipCode,Box,RateA,RateB,RateC
+Martha,C,Zermeno,928 Arrowood Drive,Jacksonville,FL,32217,A,8.26,13.37,37.38
+Erin,F,Smallwood,4474 Elk Street,Los Angeles,CA,90017,B,7.55,10.66,33.03
+Dewayne,J,Brown,2403 Hurry Street,Elkton,VA,22827,C,9.97,16.28,47.43
+Latrisha,G,Thornhill,1422 Oliver Street,Fort Worth,TX,76118,A,7.55,10.66,33.03
+Larue,J,Villarreal,2907 Joy Lane,Calabasas,CA,91302,C,7.55,10.66,33.03
+Dorothy,R,George,1291 Kidd Avenue,Port Alsworth,AK,99653,B,5.84,8.1,23.62
+Walter,J,Smith,3922 Spruce Drive,Burgettstown,PA,15021,B,5.44,7.25,19.89
+Rhonda,B,McLean,1775 Simons Hollow Road,Sunbury,PA,17801,C,7.55,10.66,33.03
+Amber,C,Hockman,5 Grim Avenue,San Diego,CA,92103,B,7.55,10.66,33.03
+Michelle,W,Freeman,4611 Archwood Avenue,Green River,WY,82935,B,5.84,8.1,23.62
+Alisha,J,Charette,905 Ritter Street,Fort Payne,AL,35967,A,7.55,10.66,33.03
+Carl,A,Linville,2128 Short Street,Georgetown,TX,78626,A,8.26,13.37,37.38
+Leroy,J,Swink,3640 Hillside Drive,Winchester,MA,1890,B,5.84,8.1,23.62
+Joshua,T,Pickett,2205 Elk City Road,Indianapolis,IN,46205,B,6.16,6.16,6.16
+Cathy,W,Wilson,147 Memory Lane,Dekalb,IL,60115,B,7.55,10.66,33.03
+Linda,D,Dunson,1013 Upton Avenue,Westbrook,ME,4092,B,9.97,16.28,47.43
+Sharon,M,Wilson,3322 Lincoln Drive,Lancaster,PA,17552,A,5.84,8.1,23.62
+Terry,L,Wood,637 Snyder Avenue,Charlotte,NC,28202,B,8.98,14.42,40.89
+Christopher,J,Lumpkin,3347 Cityview Drive,Philadelphia,PA,19103,B,7.55,10.66,33.03
+Susan,D,Arneson,505 Wayside Lane,San Francisco,CA,94107,B,7.55,10.66,33.03
+Ruby,P,Eisen,3782 Lowland Drive,Ohio,IL,61349,B,5.84,8.1,23.62
+Mary,T,Pittman,2754 Marion Drive,Plant City,FL,33566,A,5.32,5.32,5.32
+Christopher,H,Yates,2556 Clay Lick Road,Aurora,CO,80010,C,8.26,13.37,37.38
+Kevin,E,Sharpe,2628 Lighthouse Drive,Joplin,MO,64801,B,8.26,13.37,37.38
+Terry,S,Irvin,382 Hiddenview Drive,Lakewood,OH,44107,A,9.97,16.28,47.43
+Carey,J,Dyson,3873 Fincham Road,San Diego,CA,92111,B,7.55,10.66,33.03
+Jeffery,J,Souther,4842 Golf Course Drive,Washington,VA,20005,C,5.84,8.1,23.62
+Bonnie,J,Vazquez,4112 Layman Avenue,Savannah,GA,31401,B,8.26,13.37,37.38
+Lois,J,Cranford,2384 Jenna Lane,Cincinnati,OH,45216,B,5.44,7.25,19.89
+Ariana,A,Gibson,3 Burning Memory Lane,Philadelphia,PA,19104,C,7.55,10.66,33.03
+April,J,Wolfgang,2051 West Side Avenue,Jersey City,NJ,7304,C,5.84,8.1,23.62
+Margaret,P,Powell,2596 Grasselli Street,Dover,NH,3820,C,7.55,10.66,33.03
+Dale,G,Berry,3673 Mulberry Avenue,North Little Rock,AR,72114,B,5.84,8.1,23.62
+Kenneth,K,Deveau,508 Felosa Drive,San Angelo,TX,76901,C,8.98,14.42,40.89
+Lawrence,L,Scott,1815 Mapleview Drive,Plant City,FL,33566,A,5.84,8.1,23.62
+William,M,Dupree,3809 Watson Lane,Spruce Pine,NC,28777,B,5.44,7.25,19.89
+Florence,D,Fultz,3697 Upton Avenue,Waterville,ME,4901,B,7.55,10.66,33.03
+Daryl,J,Davis,712 West Street,Ada,MI,49301,A,8.98,14.42,40.89
+Reginald,S,Pastor,3978 Bingamon Branch Road,Wheeling,IL,60090,A,7.55,10.66,33.03
+Susan,J,Etheridge,3104 Angie Drive,Santa Ana,CA,92704,B,8.26,13.37,37.38
+James,M,Kyle,3787 Davisson Street,Richmond,IN,47374,A,5.84,8.1,23.62
+Alex,D,Fauver,360 Fairway Drive,Vacaville,CA,95688,A,5.84,8.1,23.62
+Sharon,J,Enoch,1618 Walnut Hill Drive,Cincinnati,OH,45202,B,5.44,7.25,19.89
+Lindsay,L,Downing,1088 Patterson Road,South Ozone Park,NY,11420,B,5.84,8.1,23.62
+Jon,Z,Farris,1971 Thompson Drive,Union City,CA,94587,C,5.84,8.1,23.62
+Joseph,T,Welch,18 Northwest Boulevard,Jersey City,NJ,7304,B,7.55,10.66,33.03
+Albert,M,Johnson,2073 Lindale Avenue,Oakland,CA,94612,A,7.55,10.66,33.03
+Judith,K,Rogers,313 Steele Street,Lombard,IL,60148,B,7.55,10.66,33.03
+Jerry,J,Caldwell,4602 Roosevelt Street,San Francisco,CA,94112,B,5.84,8.1,23.62
+Lavina,R,Jones,2792 Stanley Avenue,Great Neck,NY,11021,C,7.55,10.66,33.03
+David,C,Snyder,2704 Lost Creek Road,Birdsboro,PA,19508,B,5.84,8.1,23.62
+Carmen,G,Stewart,3788 Overlook Drive,Indianapolis,IN,46202,B,5.84,8.1,23.62
+Tiffany,P,Strawn,3602 Clement Street,Atlanta,GA,30303,B,5.84,8.1,23.62
+Stevie,D,Snow,1869 Clair Street,Waco,TX,76710,C,9.97,16.28,47.43
+Pauline,B,Ward,102 Godfrey Road,New York,NY,10038,B,5.84,8.1,23.62
+Thomas,J,Beckwith,2629 Willis Avenue,Jacksonville,FL,32216,A,5.84,8.1,23.62
+Courtney,B,Eckhoff,3540 Leverton Cove Road,Warren,MA,1083,A,5.44,7.25,19.89
+Timothy,S,Freeman,1538 Cardinal Lane,Westville,IL,61883,B,7.55,10.66,33.03
+Kathy,F,Cox,4245 Hazelwood Avenue,West Des Moines,IA,50266,A,5.32,5.32,5.32
+Barbara,A,Freda,1383 Hamilton Drive,Beaumont,TX,77701,B,8.98,14.42,40.89
+Cindy,N,Leavitt,3201 Chipmunk Lane,Portland,ME,4101,B,6.16,6.16,6.16
+Robert,R,Holder,3760 Walton Street,Salt Lake City,UT,84111,A,9.97,16.28,47.43
+Ali,S,Peters,3946 Victoria Street,Albany,LA,70711,C,8.98,14.42,40.89
+Stephanie,T,Johnson,2025 Poplar Street,Schaumburg,IL,60173,B,9.97,16.28,47.43
+Betty,R,Hoffmann,4060 Hinkle Deegan Lake Road,Binghamton,NY,13901,A,7.55,10.66,33.03
+Robert,G,Waddell,2500 Pinchelone Street,Virginia Beach,VA,23464,B,8.98,14.42,40.89
+Shannon,A,Hartmann,4709 Boundary Street,St Augustine,FL,32092,A,5.84,8.1,23.62
+James,T,Jennings,3220 Ferguson Street,Framingham,MA,1702,B,7.55,10.66,33.03
+James,S,Lipe,4537 Spinnaker Lane,Dekalb,IL,60115,B,5.84,8.1,23.62
+William,J,Hughes,1272 Barnes Street,Orlando,FL,32809,A,5.84,8.1,23.62
+Damian,I,Seymour,3122 Hazelwood Avenue,Des Moines,IA,50311,C,7.55,10.66,33.03
+Jessica,B,Meyers,317 Rainbow Drive,North Canton,OH,44720,C,15.25,15.25,15.25
+Florence,J,Davis,1400 Raintree Boulevard,Minneapolis,MN,55401,A,7.55,10.66,33.03
+Joyce,E,Herrmann,2235 Drainer Avenue,Tallahassee,FL,32303,A,5.84,8.1,23.62
+James,R,Wells,3897 Friendship Lane,San Jose,CA,95113,A,5.84,8.1,23.62
+Fred,N,Madison,1228 Cessna Drive,Fort Wayne,IN,46818,A,5.84,8.1,23.62
+Mark,D,Preston,4435 Robinson Lane,Delaware,OH,43015,B,5.84,8.1,23.62
+Alexander,K,Hunter,1697 Burke Street,Burlington,MA,1803,A,8.26,13.37,37.38
+Dwight,T,Cepeda,589 Amethyst Drive,Lansing,MI,48933,B,5.84,8.1,23.62
+Sheryl,J,Bartholomew,1830 Bloomfield Way,Rockwood,ME,4478,C,5.84,8.1,23.62
+Jennifer,C,Connor,2713 Maxwell Farm Road,Chico,CA,95928,A,7.55,10.66,33.03
+Sheryl,R,Puckett,1982 Spring Avenue,Norristown,PA,19403,B,9.97,16.28,47.43
+Willie,T,Lujan,2276 Callison Lane,Ocean View,DE,19970,B,5.44,7.25,19.89
+Alyson,K,Scott,2904 Hannah Street,Charlotte,NC,28273,B,8.98,14.42,40.89
+Daniel,C,Cooper,723 Lords Way,Memphis,TN,38118,B,8.98,14.42,40.89
+Maurice,D,McAllister,2204 Gladwell Street,Sherman,TX,75090,B,5.84,8.1,23.62
+Brenda,E,Kincheloe,4364 Heron Way,Keizer,OR,97303,B,7.55,10.66,33.03
+Queen,O,Corey,1614 Oakway Lane,City Of Commerce,CA,90040,C,7.55,10.66,33.03
+Kim,R,Huffman,910 Fort Street,Eatonville,WA,98328,B,5.84,8.1,23.62
+James,S,Reed,986 Rockford Mountain Lane,Chapel Hill,NC,27514,B,6.16,6.16,6.16
+Joshua,L,Wood,894 Webster Street,Toms River,NJ,8753,B,6.16,6.16,6.16
+Paul,C,Amick,2869 Quincy Street,Philadelphia,PA,19108,B,5.84,8.1,23.62
+Crystal,J,Hill,433 Hope Street,Portland,OR,97225,B,7.55,10.66,33.03
+Bradley,V,Leboeuf,1884 Owagner Lane,Seattle,WA,98122,C,8.26,13.37,37.38
+Nathan,M,Beil,3804 Mount Tabor,Putnam Valley,NY,10579,B,5.84,8.1,23.62
+Matthew,C,Lupo,4491 Colonial Drive,Houston,TX,77036,C,15.25,15.25,15.25
+Mavis,S,Favela,2379 Hamill Avenue,San Diego,CA,92110,B,7.55,10.66,33.03
+Jose,T,Le,4205 Roguski Road,Monroe,LA,71201,A,7.55,10.66,33.03
+Paul,M,Beeler,3234 Romano Street,Cambridge,MA,2141,B,7.55,10.66,33.03
+Pamela,J,Haase,645 Conaway Street,Columbus,IN,47201,B,8.98,14.42,40.89
+Eugene,M,Wright,969 Walkers Ridge Way,Downers Grove,IL,60515,B,7.55,10.66,33.03
+George,R,Chapell,1063 Sand Fork Road,South Bend,IN,46625,B,9.97,16.28,47.43
+Kenneth,R,Terrell,815 Wayback Lane,Mastic,NY,11950,B,8.26,13.37,37.38
+Theresa,E,Gibson,2846 August Lane,Shreveport,LA,71101,C,5.84,8.1,23.62
+Amie,D,Littell,1779 Berkley Street,Philadelphia,PA,19103,C,9.97,16.28,47.43
+Christine,R,Harris,2495 Concord Street,Matthews,NC,28105,B,7.55,10.66,33.03
+Harry,L,King,4414 Renwick Drive,Philadelphia,PA,19103,B,5.84,8.1,23.62
+Carol,L,Trice,91 Kidd Avenue,Chignik Lake,AK,99564,B,7.55,10.66,33.03
+John,L,Corwin,2313 Stoney Lane,Waxahachie,TX,75165,B,8.98,14.42,40.89
+Nicholas,R,Ford,3394 Terra Cotta Street,Mentor,MN,56736,A,5.84,8.1,23.62
+Joshua,E,Chapman,1268 Roane Avenue,Mayo,MD,21106,A,5.44,7.25,19.89
+Katherine,H,Sanchez,4803 Sunburst Drive,Fort Myers,FL,33901,B,7.55,10.66,33.03
+Claire,T,Hutchison,4550 Roy Alley,Denver,CO,80202,B,7.55,10.66,33.03
+Tracy,A,Lowery,3367 Strother Street,Birmingham,AL,35205,B,7.55,10.66,33.03
+Kathleen,C,Donaldson,4195 Marion Street,Barnwell,SC,29812,C,15.25,15.25,15.25
+Derrick,B,Antonio,3055 Fantages Way,Presque Isle,ME,4769,C,7.55,10.66,33.03
+Matthew,S,Woods,3086 Langtown Road,Bettendorf,IA,52722,B,7.55,10.66,33.03
+Francis,R,Black,4609 Prospect Valley Road,Wilmington,CA,90744,B,8.26,13.37,37.38
+Ethel,H,McKain,1541 Musgrave Street,Oklahoma City,OK,73102,B,5.44,7.25,19.89
+Rose,M,Gomez,3226 James Street,Lyndonville,NY,14098,A,5.84,8.1,23.62
+Curtis,M,Eaton,1706 Front Street,Southfield,MI,48075,B,8.98,14.42,40.89
+Raymond,J,Palmer,4839 Hampton Meadows,Worcester,MA,1610,B,5.84,8.1,23.62
+Margaret,M,White,2650 Glendale Avenue,Los Angeles,CA,90017,C,7.55,10.66,33.03
+Nicholas,M,Horner,2115 Joy Lane,Glendale,CA,91204,B,7.55,10.66,33.03
+Paul,J,Munday,4399 Hardman Road,South Burlington,VT,5403,B,5.84,8.1,23.62
+Patrick,R,Smith,2376 Ethels Lane,Winter Haven,FL,33830,C,7.55,10.66,33.03
+Margaret,M,Mullen,4350 Travis Street,Fort Pierce,FL,34950,B,5.44,7.25,19.89
+Juan,T,Sanchez,261 Snider Street,Pueblo,CO,81003,B,7.55,10.66,33.03
+Wm,N,Howard,2382 Blair Court,Kansas City,MO,64106,B,8.26,13.37,37.38
+Doris,R,Hamm,4900 C Street,Quincy,MA,2169,B,5.84,8.1,23.62
+Mauricio,N,Patterson,4030 Watson Street,Penns Neck,NJ,8540,B,5.84,8.1,23.62
+Lawrence,D,Robinson,4150 Russell Street,Lawrence,MA,1840,B,8.98,14.42,40.89
+Laurie,J,Alvarez,374 Carolina Avenue,Brownsville,TX,78520,B,5.84,8.1,23.62
+Marcus,K,Osborne,3470 Breezewood Court,Arkansas City,KS,67005,B,8.98,14.42,40.89
+Robert,B,Knaus,871 Star Route,Summit,IL,60501,B,5.84,8.1,23.62
+Richard,M,Stein,1566 Woodlawn Drive,Milwaukee,WI,53219,B,9.97,16.28,47.43
+Mary,J,Smith,2424 Lynn Avenue,Green Bay,WI,54303,A,9.97,16.28,47.43
+Jessie,B,Hart,187 Euclid Avenue,Goleta,CA,93117,B,5.44,7.25,19.89
+Lori,W,Davie,1657 Haul Road,Saint Paul,MN,55102,C,9.97,16.28,47.43
+Marian,E,Coleman,4216 Briarwood Road,Springfield,MO,65804,B,8.98,14.42,40.89
+Larry,E,Hoyt,2546 Simpson Street,Bloomington,IL,61701,C,5.44,7.25,19.89
+Karen,C,Stalker,557 Skinner Hollow Road,Eugene,OR,97401,B,5.84,8.1,23.62
+Earl,M,Perales,3748 Eagle Street,Fairview Heights,IL,62208,B,5.84,8.1,23.62
+Lee,E,Gaines,3735 Chandler Drive,Osceola,MO,64776,B,9.97,16.28,47.43
+Amy,B,Brenner,3370 Hall Place,Texarkana,TX,75501,B,5.84,8.1,23.62
+Bonita,G,Snow,1192 Saints Alley,Tampa,FL,33634,B,8.26,13.37,37.38
+Gloria,L,Ellis,4248 Randolph Street,Fall River,MA,2720,B,8.26,13.37,37.38
+Ronald,W,Franklin,4917 Chipmunk Lane,Bangor,ME,4401,C,5.84,8.1,23.62
+Elaine,J,Pierce,4077 Layman Avenue,Savannah,GA,31401,B,8.26,13.37,37.38
+Christine,M,Gauna,4544 Irish Lane,Madison,WI,53704,B,5.84,8.1,23.62
+Fay,H,Kaiser,1628 Hillside Street,Mesa,AZ,85225,A,5.84,8.1,23.62
+Diana,T,Rohrbach,1201 Grasselli Street,Portsmouth,NH,3801,C,5.84,8.1,23.62
+Dorothy,G,Lambert,3572 Woodland Terrace,Sacramento,CA,95814,A,8.26,13.37,37.38
+Scotty,L,Treat,2394 Denver Avenue,Edgemont,CA,92508,C,7.55,10.66,33.03
+Michael,E,Stevens,2681 Sun Valley Road,Spokane,WA,99201,B,8.98,14.42,40.89
+Rosalee,T,Patterson,4219 Thorn Street,Wright,WY,82732,B,8.26,13.37,37.38
+Willie,J,Simmons,391 Bingamon Road,Warrensville Heights,OH,44128,B,5.84,8.1,23.62
+Judy,E,Dent,1082 Rodney Street,Saint Louis,MO,63101,B,8.26,13.37,37.38
+Alvina,P,Cordero,327 Locust Court,Irvine,CA,92614,B,5.84,8.1,23.62
+Laura,A,Begaye,4255 George Avenue,Mobile,AL,36638,B,8.98,14.42,40.89
+Thomas,S,Kawamoto,2850 Horner Street,Cuyahoga Falls,OH,44221,B,5.84,8.1,23.62
+Debra,T,Jones,3732 Franklin Avenue,Daytona Beach,FL,32114,C,8.26,13.37,37.38
+Kathryn,R,Rhoades,2803 Parkview Drive,Pomona,CA,91766,B,5.84,8.1,23.62
+Patricia,W,McGruder,1273 Roosevelt Wilson Lane,Anaheim,CA,92805,B,5.84,8.1,23.62
+Ali,J,Melia,3074 Catherine Drive,Fargo,ND,58103,C,8.98,14.42,40.89
+Veronica,C,Arney,3097 Lucky Duck Drive,Oakmont,PA,15139,B,7.55,10.66,33.03
+Basil,P,Thomas,3159 Tanglewood Road,Myrtle,MS,38650,A,7.55,10.66,33.03
+Cruz,C,Adams,4154 Kimberly Way,South Boston,MA,2127,B,9.97,16.28,47.43
+Anna,V,Price,4584 Maple Avenue,Merced,CA,95340,A,5.84,8.1,23.62
+Steven,M,Taylor,2211 Ferrell Street,Fargo,MN,58104,B,7.55,10.66,33.03
+Chad,A,Fisher,2919 Clay Lick Road,Denver,CO,80014,B,5.84,8.1,23.62
+Charles,E,Andrews,1524 Jewell Road,Saint Paul,MN,55104,C,5.84,8.1,23.62
+Alison,M,Miller,3410 Austin Avenue,Savannah,GA,31401,C,7.55,10.66,33.03
+Ernest,A,Kite,3245 Hickman Street,Downers Grove,IL,60515,A,5.84,8.1,23.62
+Edith,M,Hearn,2819 Villa Drive,South Bend,IN,46601,B,5.44,7.25,19.89
+James,M,Lilly,3796 James Street,East Aurora,NY,14052,B,9.97,16.28,47.43
+Jarvis,B,Rodriquez,1880 Whispering Pines Circle,Grand Prairie,TX,75051,B,5.84,8.1,23.62
+Sarah,R,Rivers,3901 Airplane Avenue,Wallingford,CT,6492,C,5.84,8.1,23.62
+Amanda,J,Foster,1779 Paul Wayne Haggerty Road,New Orleans,LA,70112,C,9.97,16.28,47.43
+Maria,J,Ybarra,679 Pennsylvania Avenue,Piscataway,NJ,8854,C,8.98,14.42,40.89
+Georgine,R,Snively,4871 McDowell Street,Columbia,TN,38401,A,7.55,10.66,33.03
+Peter,H,Cusson,1388 Moonlight Drive,Mercerville,NJ,8619,B,7.55,10.66,33.03
+Jennifer,T,Taylor,1529 Irish Lane,Madison,WI,53718,A,7.55,10.66,33.03
+Fredrick,C,Lawrence,3558 Jennifer Lane,Cary,NC,27513,B,7.55,10.66,33.03
+Brian,L,Lawless,1011 Pin Oak Drive,Davenport,IA,52803,B,6.16,6.16,6.16
+Mary,C,Sullivan,4242 Pin Oak Drive,Long Beach,CA,90807,A,5.84,8.1,23.62
+Nadine,P,Wright,4289 Honeysuckle Lane,Orchards,WA,98662,C,5.84,8.1,23.62
+Elisa,G,Taylor,2339 Yorkshire Circle,Roanoke Rapids,NC,27870,A,8.26,13.37,37.38
+Sandra,R,Sutherland,2382 Circle Drive,Houston,TX,77032,B,7.55,10.66,33.03
+Tamara,G,Dahl,3034 Courtright Street,Washburn,ND,58577,B,5.84,8.1,23.62
+Andrea,D,Harris,4435 Jadewood Drive,Highland,IN,46322,B,7.55,10.66,33.03
+Joy,R,Clark,2651 Arthur Avenue,Sterling,IL,61081,C,5.84,8.1,23.62
+Kenneth,M,Cain,4775 Wright Court,Birmingham,AL,35205,C,5.84,8.1,23.62
+Rodney,J,Leist,3362 Clark Street,Patchogue,NY,11772,B,5.84,8.1,23.62
+Rose,R,Hill,1819 Coal Road,Pittston,PA,18640,C,5.84,8.1,23.62
+Patricia,T,Dam,2260 Jones Avenue,Greensboro,NC,27401,C,5.84,8.1,23.62
+Norman,R,King,3219 Giraffe Hill Drive,Irving,TX,75060,B,5.84,8.1,23.62
+Travis,C,Welch,4838 Wilkinson Street,Brentwood,TN,37027,B,9.97,16.28,47.43
+Freda,C,Dickman,993 Conference Center Way,Washington,VA,20005,A,7.55,10.66,33.03
+Thomas,L,Merrick,2384 Nutter Street,Henrietta,MO,64036,B,5.84,8.1,23.62
+Bobbie,J,Speier,3539 Ashmor Drive,Little Fork,MN,56653,B,5.84,8.1,23.62
+Nichole,J,Fox,2831 Red Maple Drive,Los Angeles,CA,90042,C,5.84,8.1,23.62
+Lillian,A,Claude,2338 Bernardo Street,Clearwater,FL,34620,B,5.84,8.1,23.62
+Salvador,F,Ryan,3210 Friendship Lane,San Jose,CA,95113,B,7.55,10.66,33.03
+Dustin,L,Hein,2627 Irish Lane,Cross Plains,WI,53528,B,5.84,8.1,23.62
+Mildred,K,Mills,4082 Corbin Branch Road,Johnson City,TN,37601,C,5.44,7.25,19.89
+Sarah,R,Dearman,4381 Lodgeville Road,Minneapolis,MN,55402,C,5.84,8.1,23.62
+Brad,M,Hickmon,1671 School House Road,Jackson,MS,39201,A,5.44,7.25,19.89
+Sherri,S,Omara,34 Norma Avenue,Dayton,OH,45402,C,9.97,16.28,47.43
+Ernest,E,Buck,3530 Saint Francis Way,West Allis,WI,53227,B,7.55,10.66,33.03
+Matthew,J,Lawson,4590 Lucy Lane,Greensburg,IN,47240,A,5.84,8.1,23.62
+Misty,F,Ellis,2182 Polk Street,Tucson,AZ,85701,B,9.97,16.28,47.43
+Raymond,V,Sanchez,2910 Crestview Manor,Indianapolis,IN,46220,A,5.84,8.1,23.62
+James,E,Ali,649 Morningview Lane,Westbury,NY,11590,B,8.98,14.42,40.89
+Jeffery,B,Rhodes,2858 Ritter Avenue,Detroit,MI,48226,B,7.55,10.66,33.03
+Genoveva,G,Forte,635 Barfield Lane,Indianapolis,IN,46225,B,7.55,10.66,33.03
+Phillip,M,Gallegos,340 Science Center Drive,Mountain Home,ID,83647,C,8.98,14.42,40.89
+James,R,Jinks,1982 Browning Lane,Johnson City,NY,13790,B,7.55,10.66,33.03
+Jose,S,Black,4483 Taylor Street,White Plains,NY,10601,B,8.98,14.42,40.89
+Mary,A,Dixon,1563 Pickens Way,Longview,TX,75604,C,5.84,8.1,23.62
+Ann,T,Wright,2565 Holt Street,Fort Lauderdale,FL,33301,B,5.84,8.1,23.62
+Mitchell,C,Jones,2951 Quincy Street,Philadelphia,PA,19108,A,5.84,8.1,23.62
+Kelly,K,Teel,4480 Vesta Drive,Chicago,IL,60605,A,9.97,16.28,47.43
+Betty,L,Decker,467 Birch  Street,El Paso,TX,79915,C,5.84,8.1,23.62
+Micheal,S,Weedman,2555 Spadafore Drive,Weedville,PA,16627,B,5.44,7.25,19.89
+Tyson,E,Williams,413 Wood Duck Drive,Iron Mountain,MI,49801,A,7.55,10.66,33.03
+Maria,C,Brown,799 Adamsville Road,Mission,TX,78572,B,5.84,8.1,23.62
+Nancy,L,Elliott,2750 Bernardo Street,New Albany,IN,47150,B,8.26,13.37,37.38
+Dorothy,A,Montgomery,2543 Ross Street,Belleville,IL,62220,A,8.26,13.37,37.38
+Janice,W,Tucker,2586 Andy Street,Sioux Falls,SD,57102,C,8.26,13.37,37.38
+Robert,K,Miller,1713 Fairfield Road,Brookfield,WI,53005,A,7.55,10.66,33.03
+Carrie,G,Moore,3498 Northwest Boulevard,Washington,DC,20007,B,5.84,8.1,23.62
+Scott,M,Gray,710 Wayside Lane,Oakland,CA,94612,B,9.97,16.28,47.43
+Louie,M,Conner,4932 Rosewood Lane,New York,NY,10019,A,5.84,8.1,23.62
+Timothy,S,Link,154 Terry Lane,Orlando,FL,32801,A,7.55,10.66,33.03
+Suzanne,S,Woodard,4013 C Street,Nantucket,MA,2554,B,7.55,10.66,33.03
+Mary,E,Black,4305 Timberbrook Lane,Greeley,CO,80634,C,9.97,16.28,47.43
+Nancy,L,Henderson,3070 Tator Patch Road,Chicago,IL,60606,A,5.84,8.1,23.62
+Phillip,C,Carter,2212 Wilson Street,Hesperia,CA,92345,B,5.44,7.25,19.89
+Edna,S,Fullilove,2620 Willis Avenue,Daytona Beach,FL,32114,B,7.55,10.66,33.03
+Miguel,E,Fields,3186 Station Street,San Francisco,CA,94107,B,7.55,10.66,33.03
+Denise,D,Lagrone,870 Clarksburg Park Road,Phoenix,AZ,85403,B,5.84,8.1,23.62
+Kristen,R,Roussel,301 Loving Acres Road,Kansas City,MO,64130,B,7.55,10.66,33.03
+William,C,Kowalski,88 Irish Lane,Verona,WI,53593,C,8.98,14.42,40.89
+Stella,L,Barham,3745 Willow Greene Drive,Montgomery,AL,36014,B,5.84,8.1,23.62
+Damon,L,Warthen,1146 Webster Street,Manasquan,NJ,7719,C,5.84,8.1,23.62
+Juan,D,Frierson,833 Pleasant Hill Road,Gardena,CA,90247,B,8.26,13.37,37.38
+Ethelyn,N,Klein,788 McDowell Street,Nashville,TN,37211,B,7.55,10.66,33.03
+Joyce,M,Duncan,2773 Irish Lane,Madison,WI,53718,C,5.84,8.1,23.62
+Angelica,J,Welch,4715 Par Drive,Los Angeles,CA,90017,B,9.97,16.28,47.43
+Joanna,M,Rizzi,186 Cessna Drive,Fort Wayne,IN,46818,C,7.55,10.66,33.03
+James,J,Sikes,4033 Pinewood Drive,Des Plaines,IL,60016,B,5.84,8.1,23.62
+Andre,J,Bryson,4752 Earnhardt Drive,Louisville,KY,40202,C,7.55,10.66,33.03
+Wade,M,Forsyth,4408 Hurry Street,Raphine,VA,24472,C,5.84,8.1,23.62
+Ashley,B,Bonner,3743 Mulberry Avenue,Turrell,AR,72384,C,8.98,14.42,40.89
+Todd,L,Small,3048 Chenoweth Drive,Mc Minnville,TN,37110,B,5.44,7.25,19.89
+Scott,S,Walters,2540 Berry Street,Colorado Springs,CO,80915,B,5.84,8.1,23.62
+Dale,L,Cole,3874 Carter Street,Mounds,IL,62964,B,7.55,10.66,33.03
+Marion,R,Clark,2180 Tennessee Avenue,Birmingham,MI,48009,B,8.26,13.37,37.38
+Charles,J,Fentress,1793 Shadowmar Drive,New Orleans,LA,70118,B,7.55,10.66,33.03
+Robert,C,Cirillo,1536 Tyler Avenue,Ft Lauderdale,FL,33311,A,5.84,8.1,23.62
+Marsha,B,Hammer,410 Poling Farm Road,Tekamah,NE,68061,B,8.98,14.42,40.89
+Janet,E,Faris,2047 Yorkshire Circle,Colerain,NC,27924,A,9.97,16.28,47.43
+Samuel,S,Castillo,1744 Maryland Avenue,Tampa,FL,33614,A,7.55,10.66,33.03
+Stephanie,S,Bennett,78 Beechwood Avenue,Belvidere,NJ,7823,A,5.84,8.1,23.62
+Clarence,A,Hickman,523 Lighthouse Drive,Stoutland,MO,65567,B,5.84,8.1,23.62
+Kelly,V,Lange,3958 Hewes Avenue,Baltimore,MD,21202,B,5.84,8.1,23.62
+Benjamin,M,Shipley,2136 Blair Court,Rockville,MO,64780,C,5.84,8.1,23.62
+Marvin,L,Gump,3255 Romrog Way,Gordon,NE,69343,B,8.26,13.37,37.38
+Guy,L,Wiser,1662 Sharon Lane,Goshen,IN,46526,B,9.97,16.28,47.43
+Wilma,N,Bailey,4311 Williams Mine Road,South Plainfield,NJ,7080,A,7.55,10.66,33.03
+Paula,R,Bess,915 John Calvin Drive,Chicago,IL,60603,A,5.84,8.1,23.62
+Charles,C,Smith,4618 North Avenue,Lincoln,NE,68508,A,5.84,8.1,23.62
+John,M,Roybal,162 Tetrick Road,Avon Park,FL,33825,A,7.55,10.66,33.03
+Alma,J,Berry,1603 Maple Street,Cypress,CA,90630,B,5.84,8.1,23.62
+Kenneth,J,Jefferson,3019 Davis Court,Dow,IL,62022,A,7.55,10.66,33.03
+Wilma,B,Thomas,1284 Conifer Drive,Seattle,WA,98109,A,5.84,8.1,23.62
+Elaine,T,Brown,901 Edwards Street,Farmville,NC,27828,B,5.84,8.1,23.62
+Mary,J,Scott,4009 Creekside Lane,Ventura,CA,93001,B,7.55,10.66,33.03
+Judy,J,Donnell,298 Farland Avenue,San Antonio,TX,78218,B,5.84,8.1,23.62
+Vera,M,Rollins,2906 Chicago Avenue,Fresno,CA,93721,C,7.55,10.66,33.03
+Daniel,L,Gainey,2985 Brooke Street,Houston,TX,77035,B,7.55,10.66,33.03
+Yolanda,D,Wilson,716 Wiseman Street,Knoxville,TN,37917,C,15.25,15.25,15.25
+Kathy,L,McDonald,1449 Ross Street,Ridgway,IL,62979,B,7.55,10.66,33.03
+Kimbery,D,Brown,4889 Fort Street,Ahoskie,NC,27910,C,7.55,10.66,33.03
+Thomas,C,Mah,4864 Hillhaven Drive,Los Angeles,CA,90017,B,5.84,8.1,23.62
+Lynne,N,Wells,334 Maple Court,Rolla,MO,65401,C,15.25,15.25,15.25
+Robert,A,Echevarria,3641 Duke Lane,Sayreville,NJ,8879,C,5.84,8.1,23.62
+Kenneth,V,Hill,1663 Irving Road,New Holland,OH,43145,B,8.98,14.42,40.89
+Michael,D,Soliz,2877 Nutter Street,Saint Joseph,MO,64501,B,5.84,8.1,23.62
+Susan,F,Linares,426 Trouser Leg Road,Springfield,MA,1103,B,5.84,8.1,23.62
+Peter,M,Sanchez,4718 Marion Street,Columbia,SC,29203,C,5.84,8.1,23.62
+Shirley,A,Alcock,2641 Hickory Lane,Reston,DC,20191,C,8.26,13.37,37.38
+Marvin,A,Farris,4457 Chicago Avenue,Visalia,CA,93291,A,5.44,7.25,19.89
+Jerome,K,Hill,1695 Hide A Way Road,San Jose,CA,95113,B,5.84,8.1,23.62
+John,D,Wheeler,2201 West Fork Street,Helena,MT,59601,A,7.55,10.66,33.03
+Raymond,V,Fine,1538 Hillside Drive,West Roxbury,MA,2132,C,5.84,8.1,23.62
+Haydee,W,Harvey,3982 Tree Frog Lane,Kansas City,MO,64106,A,7.55,10.66,33.03
+Kurt,R,Green,2093 Simpson Square,Perry,OK,73077,A,5.84,8.1,23.62
+Sean,N,Numbers,3299 Honeysuckle Lane,Orchards,WA,98662,B,5.84,8.1,23.62
+Manuel,M,Mannings,1297 Lighthouse Drive,Springfield,MO,65804,B,5.84,8.1,23.62
+Robert,A,Morales,524 Cliffside Drive,Binghamton,NY,13901,B,7.55,10.66,33.03
+Fidel,C,Garcia,2196 Deercove Drive,Philadelphia,PA,19140,B,8.98,14.42,40.89
+Albert,J,Reichert,131 Grand Avenue,Orlando,FL,32801,B,7.55,10.66,33.03
+Rachel,T,Guzman,1453 Layman Court,Atlanta,GA,30346,C,7.55,10.66,33.03
+Shelly,R,Kingston,1973 Poplar Lane,Ft Lauderdale,FL,33311,C,8.26,13.37,37.38
+Robert,P,Dwight,1446 Sunburst Drive,Fort Myers,FL,33901,B,5.84,8.1,23.62
+Randall,A,Grams,1199 College Avenue,Middletown,OH,45044,C,5.84,8.1,23.62
+Dorothea,D,Boerner,1238 Wexford Way,Springfield,SC,29146,B,8.98,14.42,40.89
+Carol,D,Pollack,3054 Medical Center Drive,Venice,FL,34285,B,5.84,8.1,23.62
+Derrick,J,Arnold,2690 Roosevelt Wilson Lane,Calimesa,CA,92320,B,7.55,10.66,33.03
+Thelma,J,Escalante,1255 Nutter Street,Kansas City,MO,64106,C,5.84,8.1,23.62
+Grace,M,Spear,1758 Pooh Bear Lane,Greenville,SC,29601,C,5.84,8.1,23.62
+Jill,D,Strong,1039 Passaic Street,Washington,DC,20007,B,5.44,7.25,19.89
+Karen,P,Binder,706 Warner Street,Miami Springs,FL,33166,A,5.84,8.1,23.62
+Shirley,J,Cournoyer,18 Horseshoe Lane,Philadelphia,PA,19108,B,5.84,8.1,23.62
+Derrick,K,White,3200 Red Hawk Road,Askov,MN,55704,B,8.26,13.37,37.38
+Sondra,C,Mohammed,813 Charack Road,Seymour,IN,47274,B,7.55,10.66,33.03
+Johnny,H,Wilkerson,1577 Park Avenue,Sacramento,CA,95821,B,7.55,10.66,33.03
+Ralph,O,Byrd,926 Clement Street,Atlanta,GA,30303,B,7.55,10.66,33.03
+Elisabeth,P,Boling,3322 Black Stallion Road,Ford,KY,40320,B,7.55,10.66,33.03
+Harold,T,Surrett,1655 Anmoore Road,Queens,NY,11693,B,5.84,8.1,23.62
+Barbara,L,Hagan,3596 Shingleton Road,Grand Junction,MI,49056,B,8.26,13.37,37.38
+Allison,T,Gill,4157 Concord Street,Charlotte,NC,28209,A,7.55,10.66,33.03
+Hugh,L,Banfield,1192 Coulter Lane,Richmond,VA,23235,B,7.55,10.66,33.03
+Karen,B,Usher,1751 Modoc Alley,Eagle,ID,83642,C,9.97,16.28,47.43
+Marie,L,Faulkner,793 Wiseman Street,Knoxville,TN,37909,B,5.84,8.1,23.62
+Walter,M,Gorsuch,405 Glory Road,Mc Minnville,TN,37110,C,5.84,8.1,23.62
+Joseph,D,Schumaker,4155 Central Avenue,Branchburg,NJ,8817,B,7.55,10.66,33.03
+Eula,D,Grant,2401 Oakdale Avenue,Bartow,FL,33830,B,7.55,10.66,33.03
+Eugene,C,Bevilacqua,1546 Mill Street,Greenville,SC,29607,B,8.98,14.42,40.89
+Patricia,A,Wilson,4771 Rogers Street,Cincinnati,OH,45211,B,5.84,8.1,23.62
+Robert,D,Brown,2088 Armory Road,Clinton,NC,28328,C,7.55,10.66,33.03
+James,K,Adams,2966 Copperhead Road,Hartford,CT,6182,B,8.26,13.37,37.38
+Thomas,D,Fedele,285 Shady Pines Drive,Madisonville,KY,42431,A,7.55,10.66,33.03
+Donald,M,Longino,4354 Freshour Circle,San Antonio,TX,78212,C,5.84,8.1,23.62
+Elizabeth,E,Alston,3087 Hannah Street,Franklin,NC,28734,B,5.84,8.1,23.62
+Ray,A,Smith,53 Kildeer Drive,Pomeroy,OH,45769,C,5.84,8.1,23.62
+Herbert,D,Johnson,1607 Watson Lane,Asheville,NC,28803,A,8.26,13.37,37.38
+Mark,C,Markovich,753 Poco Mas Drive,Garland,TX,75040,C,7.55,10.66,33.03
+John,J,Lesure,4090 Pinewood Drive,Northbrook,IL,60062,C,5.84,8.1,23.62
+Terry,M,Brooks,1460 Scott Street,Dutchess,NY,12540,A,5.84,8.1,23.62
+Charles,G,Wood,2712 Eagle Drive,Wayne,MI,48184,B,5.44,7.25,19.89
+Donald,L,Ahn,2427 Half and Half Drive,Fresno,CA,93721,B,5.84,8.1,23.62
+James,K,Klassen,3191 Norman Street,Long Beach,CA,90802,C,5.84,8.1,23.62
+John,T,Bruner,1954 Spinnaker Lane,Chicago,IL,60606,C,7.55,10.66,33.03
+Wayne,B,Douglas,3556 Ridenour Street,Fort Lauderdale,FL,33301,B,7.55,10.66,33.03
+Luis,D,Cruz,2859 College Street,Atlanta,GA,30338,C,8.26,13.37,37.38
+Michael,C,Bridges,2754 Caldwell Road,Avon,NY,14414,C,5.84,8.1,23.62
+Larry,K,Davenport,3753 Ferry Street,Huntsville,AL,35816,C,9.97,16.28,47.43
+Nicole,R,Sorenson,4392 Wescam Court,Boston,MA,2110,B,7.55,10.66,33.03
+Paul,C,Hughes,2754 Fittro Street,Marianna,AR,72360,A,9.97,16.28,47.43
+Mike,J,Mora,4128 Lady Bug Drive,Bronx,NY,10467,B,5.84,8.1,23.62
+Lucy,L,Stanley,2686 Rocket Drive,Minneapolis,MN,55406,B,5.84,8.1,23.62
+Robert,L,Hunt,4358 Giraffe Hill Drive,Garland,TX,75040,B,5.84,8.1,23.62
+Delores,G,Gonzales,3207 Baker Avenue,Fort Worth,TX,76102,C,8.98,14.42,40.89
+Hank,A,Creed,1225 Stroop Hill Road,Atlanta,GA,30329,C,5.84,8.1,23.62
+Patricia,R,Swanson,4248 Flanigan Oaks Drive,Beltsville,MD,20705,C,8.26,13.37,37.38
+Willie,L,Kennedy,2297 Meadow View Drive,Hartford,CT,6103,B,7.55,10.66,33.03
+Eugene,S,Hancock,4176 Monroe Avenue,Fort Myers,FL,33901,C,5.84,8.1,23.62
+Hazel,O,Dimaggio,2769 Par Drive,Los Angeles,CA,90017,C,5.84,8.1,23.62
+Jeffery,S,Scoles,3498 New York Avenue,Cleburne,TX,76031,A,8.26,13.37,37.38
+Omar,D,Lindsey,4744 Wildrose Lane,Detroit,MI,48202,B,5.84,8.1,23.62
+George,J,Michel,3673 Masonic Drive,Pablo,MT,59855,C,5.84,8.1,23.62
+Marcel,T,Flores,4963 Lakeland Terrace,Wyandotte,MI,48192,A,5.84,8.1,23.62
+Rodney,G,Vega,4736 Pine Street,Butler,PA,16001,A,8.26,13.37,37.38
+Robert,L,Bruce,4582 Fairway Drive,Vacaville,CA,95688,A,9.97,16.28,47.43
+Elizabeth,R,Miller,1056 Pleasant Hill Road,West Palm Beach,FL,33409,B,5.84,8.1,23.62
+James,D,Harper,4401 Poe Lane,Westphalia,KS,66093,C,5.84,8.1,23.62
+Helen,D,Deason,4417 Skinner Hollow Road,Medford,OR,97501,B,5.84,8.1,23.62
+Anthony,E,Tevis,2386 Penn Street,Columbia,MO,65202,A,8.26,13.37,37.38
+Lilia,H,Harris,3842 Hillview Street,Sumter,SC,29150,A,9.97,16.28,47.43
+Ricky,M,Roberts,3992 Walnut Hill Drive,Portland,OH,45204,C,5.84,8.1,23.62
+Peter,V,Hoekstra,3043 Moonlight Drive,Camden,NJ,8104,B,8.26,13.37,37.38
+Nancy,T,Hutchison,363 Cooks Mine Road,Taos,NM,87571,B,5.84,8.1,23.62
+Alba,E,Lynn,371 Flint Street,Atlanta,GA,30303,B,5.84,8.1,23.62
+Amber,J,Paul,4079 Colony Street,New Haven,CT,6511,A,9.97,16.28,47.43
+Amy,R,Simon,307 Capitol Avenue,Eminence,IN,46125,B,5.84,8.1,23.62
+Vivian,G,Miller,4962 Circle Drive,Houston,TX,77027,C,9.97,16.28,47.43
+Albert,D,Stokes,169 Rodney Street,Gray Summit,MO,63039,B,7.55,10.66,33.03
+Anthony,D,Hanrahan,3568 Goldie Lane,Cincinnati,OH,45202,B,5.84,8.1,23.62
+Deborah,S,McCune,1610 Rose Avenue,New Orleans,LA,70122,B,5.84,8.1,23.62
+Gary,M,Dubois,3084 Retreat Avenue,Birmingham,AL,35209,B,5.84,8.1,23.62
+Richard,E,Armstrong,3085 Crummit Lane,Providence,RI,2908,A,9.97,16.28,47.43
+Kimberly,F,Tapley,3338 Haul Road,Saint Paul,MN,55102,B,5.84,8.1,23.62
+Tosha,J,Rivera,479 Victoria Court,Clinton,ME,4623,B,7.55,10.66,33.03
+Joseph,C,Gerth,4986 Duffy Street,Merrillville,IN,46410,B,7.55,10.66,33.03
+Clifford,K,Lilly,4037 Colonial Drive,Houston,TX,77006,B,5.84,8.1,23.62
+Joseph,E,Taylor,460 Hill Haven Drive,Waco,TX,76710,C,5.84,8.1,23.62
+Leroy,K,Anderson,467 Maryland Avenue,Tampa,FL,33602,C,5.84,8.1,23.62
+Ruth,R,Aranda,4784 Poco Mas Drive,Dallas,TX,75219,B,5.84,8.1,23.62
+Tracy,W,Diaz,1610 Front Street,Flint,MI,48548,A,5.84,8.1,23.62
+Chance,M,Saunders,3522 Pretty View Lane,Point Arena,CA,95468,C,8.26,13.37,37.38
+Joan,P,McElroy,3793 Carolina Avenue,San Antonio,TX,78205,C,5.84,8.1,23.62
+Harry,C,Vang,876 John Calvin Drive,Chicago,IL,60606,B,5.44,7.25,19.89
+Steven,F,Capone,4276 Hiddenview Drive,Philadelphia,PA,19107,C,8.98,14.42,40.89
+Mercy,D,Arcand,1688 Mount Olive Road,Norcross,GA,30093,A,5.84,8.1,23.62
+Steve,S,Britt,2871 Spring Avenue,Philadelphia,PA,19108,B,5.84,8.1,23.62
+Nathan,J,Dunn,1488 Goldleaf Lane,Jersey City,NJ,7304,A,7.55,10.66,33.03
+Annie,W,Secor,3062 Michigan Avenue,Pittsburgh,PA,15222,C,7.55,10.66,33.03
+Dwight,C,Guinn,1440 Farnum Road,New York,NY,10019,A,5.84,8.1,23.62
+Rachel,A,Gourley,4077 Edgewood Avenue,Fresno,CA,93722,A,5.84,8.1,23.62
+Florence,J,Webber,1591 Sycamore Lake Road,Green Bay,WI,54301,B,8.98,14.42,40.89
+James,D,Simmons,4618 Chapmans Lane,Albuquerque,NM,87121,A,5.44,7.25,19.89
+Stanley,L,Williams,1476 Shingleton Road,Grand Rapids,MI,49503,A,5.84,8.1,23.62
+Casey,F,Mooney,4489 Chipmunk Lane,Winterport,ME,4496,B,5.84,8.1,23.62
+Mary,A,Sanchez,1687 Sycamore Street,Santa Clara,CA,95054,C,7.55,10.66,33.03
+Angelique,I,Taylor,2684 Oliverio Drive,Lafontaine,KS,66750,B,5.84,8.1,23.62
+Christina,C,Ponce,2615 Mahlon Street,Jersey City,NJ,7305,B,8.26,13.37,37.38
+Mary,A,Arnold,3638 Kyle Street,Scottsbluff,NE,69361,C,7.55,10.66,33.03
+Nancy,W,Inniss,4372 Lodgeville Road,Golden Valley,MN,55427,B,5.44,7.25,19.89
+Christine,T,Human,1449 Carriage Lane,Hawley,PA,18428,B,7.55,10.66,33.03
+Alec,L,Fernandez,3602 Beechwood Drive,Bridgeville,PA,15017,B,9.97,16.28,47.43
+Maria,S,Smith,2563 Fraggle Drive,Chicago,IL,60606,C,7.55,10.66,33.03
+Beverly,G,Keeble,1194 Traders Alley,Raytown,MO,64133,B,7.55,10.66,33.03
+Douglas,F,Smith,1771 Vernon Street,Fallbrook,CA,92028,C,9.97,16.28,47.43
+Matthew,M,Campbell,1206 Illinois Avenue,Portland,OR,97204,B,5.84,8.1,23.62
+Shirley,A,Sturtz,3095 Tecumsah Lane,St Landry,LA,71367,B,5.84,8.1,23.62
+Larry,O,Weiland,2868 Nicholas Street,Topeka,KS,66606,A,5.32,5.32,5.32
+Debra,D,Thomas,1657 Bottom Lane,Ellicottville,NY,14731,B,7.55,10.66,33.03
+Shirley,G,Taylor,1938 Andy Street,Isabel,SD,57633,B,5.84,8.1,23.62
+Silva,W,Beck,620 Timbercrest Road,King Salmon,AK,99613,B,8.98,14.42,40.89
+Carl,S,Seymour,1252 Anmoore Road,New York,NY,10011,B,7.55,10.66,33.03
+Justin,A,Swindle,1749 Gladwell Street,Memphis,TN,38106,B,5.84,8.1,23.62
+Charles,M,Cruz,250 Mount Street,Bay City,MI,48706,C,7.55,10.66,33.03
+Clarence,P,Krauss,3850 McKinley Avenue,Denver,CO,80209,B,5.44,7.25,19.89
+Carole,L,Tomlinson,3036 Fairfax Drive,Newark,NJ,7102,B,8.26,13.37,37.38
+Linda,J,Matthews,2772 Austin Avenue,Macon,GA,31206,A,7.55,10.66,33.03
+John,L,Ziegler,1773 Woodland Terrace,Sacramento,CA,95827,B,7.55,10.66,33.03
+Isabelle,D,Ruiz,1056 Brooke Street,Houston,TX,77063,B,8.26,13.37,37.38
+Melanie,J,Shimizu,623 Hannah Street,Hickory,NC,28601,B,7.55,10.66,33.03
+Robert,K,Peterson,642 Shobe Lane,Aspen,CO,81611,C,5.84,8.1,23.62
+Nancy,K,Watkins,1862 Southside Lane,Los Angeles,CA,90022,B,5.84,8.1,23.62
+Jessie,J,Bell,1173 Havanna Street,Greensboro,NC,27409,C,5.84,8.1,23.62
+Margaret,V,McDowell,3381 Davis Place,Van Wert,OH,45891,B,8.26,13.37,37.38
+Kevin,A,Martin,2495 Jessie Street,Martins Ferry,OH,43935,A,5.84,8.1,23.62
+Jodi,I,Moran,446 Summit Street,Des Moines,IA,50309,B,7.55,10.66,33.03
+Tyrone,I,Harris,2127 Fire Access Road,Greensboro,NC,27401,A,5.84,8.1,23.62
+Lottie,A,Gregory,3937 Renwick Drive,Philadelphia,PA,19108,B,5.44,7.25,19.89
+Martha,J,Barthel,2648 Post Avenue,St Hilaire,MN,56754,B,9.97,16.28,47.43
+Carl,C,Matz,302 Kelley Road,New Orleans,MS,70112,B,7.55,10.66,33.03
+Johnny,P,Calloway,2596 Joy Lane,City Of Commerce,CA,90040,B,5.84,8.1,23.62
+Jennifer,L,Winslow,3934 Lincoln Drive,Harrisburg,PA,17111,B,7.55,10.66,33.03
+Michael,K,Allen,506 Mayo Street,Winchester,KY,40391,C,8.98,14.42,40.89
+Adam,D,Pavon,3888 Mapleview Drive,St Petersburg,FL,33712,B,9.97,16.28,47.43
+Deborah,P,Hatfield,1325 Derek Drive,Warren,OH,44484,C,8.26,13.37,37.38
+Mary,K,Eller,4257 American Drive,Camden,NJ,8104,A,7.55,10.66,33.03
+Shawn,J,Fields,2805 Giraffe Hill Drive,Irving,TX,75062,A,8.98,14.42,40.89
+Joseph,J,Wagner,1699 Platinum Drive,Petrolia,PA,16050,A,5.84,8.1,23.62
+Louise,M,Reid,2575 Wines Lane,Houston,TX,77032,B,5.84,8.1,23.62
+Thomas,M,Saulsbury,2031 Worthington Drive,Plano,TX,75075,B,5.84,8.1,23.62
+Christine,J,Pierce,4919 Buffalo Creek Road,Nashville,TN,37214,A,5.84,8.1,23.62
+Thomas,J,Wesley,2334 Moore Avenue,Fort Worth,TX,76107,C,8.98,14.42,40.89
+Ruby,P,Walling,550 Broadway Avenue,Knoxville,TN,37921,A,7.55,10.66,33.03
+Emanuel,M,Deangelo,3277 Vernon Street,Palm Springs,CA,92262,B,5.84,8.1,23.62
+William,N,McAdoo,3541 Coal Street,Johnstown,PA,15904,B,5.44,7.25,19.89
+Jose,L,Young,2507 Argonne Street,Newark,DE,19711,A,8.26,13.37,37.38
+Terry,C,Clements,695 Monroe Avenue,Cape Haze,FL,33946,B,7.55,10.66,33.03
+Victor,C,McCluney,616 Marie Street,Laurel,MD,20707,C,7.55,10.66,33.03
+Marc,J,Hart,4844 Ashton Lane,Austin,TX,78746,B,8.98,14.42,40.89
+Charles,D,Howard,4035 Clinton Street,Little Rock,AR,72211,C,7.55,10.66,33.03
+Jane,W,Jackson,1835 Wright Court,Seattle,WA,98119,B,7.55,10.66,33.03
+Donna,V,Williams,15 Haul Road,Mountain View,CA,94041,B,5.84,8.1,23.62
+Michael,W,Hobbs,2988 Worley Avenue,Charlottesville,VA,22903,B,7.55,10.66,33.03
+Justin,G,Lewis,3307 Kembery Drive,Naperville,IL,60540,B,5.44,7.25,19.89
+Tina,B,Porter,1630 Columbia Road,Georgetown,DE,19947,C,8.98,14.42,40.89
+Evalyn,J,Mata,674 Rainy Day Drive,Cambridge,MA,2141,B,9.97,16.28,47.43
+Henry,M,Williams,438 Pooz Street,Piscataway,NJ,8854,A,5.84,8.1,23.62
+David,D,Niblett,3642 Farland Avenue,Victoria,TX,77901,A,5.84,8.1,23.62
+Maurice,C,Tanaka,1412 Park Boulevard,Plymouth,IA,50464,C,8.98,14.42,40.89
+Paul,S,Trotter,4040 Reel Avenue,Albuquerque,NM,87107,B,5.84,8.1,23.62
+Patricia,J,Kulp,2997 Joes Road,Latham,NY,12110,C,8.98,14.42,40.89
+Sean,G,Wild,4822 Junior Avenue,Atlanta,GA,30303,A,7.55,10.66,33.03
+Duane,K,Cage,3597 Hiney Road,Nelson,NV,89046,B,6.16,6.16,6.16
+Martin,J,Rodriguez,1458 Oak Ridge Drive,Manchester,MO,63011,B,9.97,16.28,47.43
+Charles,F,Rush,4136 Hidden Meadow Drive,Grand Forks Air Base,ND,58228,C,7.55,10.66,33.03
+Jim,E,Depriest,3125 Lowndes Hill Park Road,Bakersfield,CA,93307,A,7.55,10.66,33.03
+Carl,M,Foster,414 Hillcrest Avenue,Waltham,MA,2154,B,9.97,16.28,47.43
+Hai,A,Evans,3616 Poplar Street,Vernon Hills,IL,60061,B,7.55,10.66,33.03
+Jeanette,J,Fowler,3679 Ridenour Street,Hialeah,FL,33014,B,7.55,10.66,33.03
+Rudolph,V,Hannan,3664 Lynch Street,Appleton,WI,54911,A,5.84,8.1,23.62
+Christopher,D,Key,2340 Colonial Drive,Sugar Land,TX,77478,B,7.55,10.66,33.03
+Denise,A,Williams,3732 Frosty Lane,Elmira,NY,14901,A,5.44,7.25,19.89
+Leona,L,Vandyke,107 Cemetery Street,Houston,TX,77002,C,5.84,8.1,23.62
+Jeanette,B,Chandler,2608 Hayhurst Lane,Troy,MI,48083,B,7.55,10.66,33.03
+Ann,A,Bryant,3580 Fraggle Drive,Wood Dale,IL,60191,C,5.84,8.1,23.62
+Dorothy,R,Kelly,830 McKinley Avenue,Bailey,CO,80421,B,7.55,10.66,33.03
+Michael,J,Orcutt,4648 State Street,Detroit,MI,48201,A,5.84,8.1,23.62
+Brian,N,Cochran,4943 Lynn Street,Boston,MA,2107,C,7.55,10.66,33.03
+Jennifer,M,Johnson,865 Single Street,Acton,MA,1720,C,5.84,8.1,23.62
+Verda,T,Myers,1826 Maloy Court,Minneapolis,KS,67467,B,7.55,10.66,33.03
+Judith,E,Pando,4719 Aviation Way,Irvine,CA,92618,A,5.84,8.1,23.62
+Jerry,K,Gray,1604 Thompson Street,Gardena,CA,90248,C,5.84,8.1,23.62
+Margaret,L,Evers,948 Science Center Drive,Mccall,ID,83638,B,9.97,16.28,47.43
+Rosalind,R,Peterson,4572 Dovetail Estates,Socaldwell,OK,67022,C,7.55,10.66,33.03
+Jose,K,Bowden,4664 Sharon Lane,Plymouth,IN,46563,C,8.26,13.37,37.38
+Danette,S,Becker,603 Orchard Street,Eden Prairie,MN,55344,C,7.55,10.66,33.03
+Rachel,L,Whitaker,3589 Braxton Street,Chicago,IL,60606,C,7.55,10.66,33.03
+Lonnie,V,Hood,1535 Bedford Street,Stamford,CT,6902,B,5.84,8.1,23.62
+Joyce,B,Ramsey,2951 Duck Creek Road,San Bruno,CA,94066,B,9.97,16.28,47.43
